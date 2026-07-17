@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/1512-number-of-good-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/1512-number-of-good-pairs) |
 | [2469-convert-the-temperature](https://github.com/rahulkash3412-rgb/DSA/tree/master/2469-convert-the-temperature) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/rahulkash3412-rgb/DSA/tree/master/3894-traffic-signal-color) |
@@ -39,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahulkash3412-rgb/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
