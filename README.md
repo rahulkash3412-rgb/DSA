@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rahulkash3412-rgb/DSA/tree/master/0050-powx-n) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rahulkash3412-rgb/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/1512-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/rahulkash3412-rgb/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/rahulkash3412-rgb/DSA/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/rahulkash3412-rgb/DSA/tree/master/2469-convert-the-temperature) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/rahulkash3412-rgb/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/rahulkash3412-rgb/DSA/tree/master/3894-traffic-signal-color) |
 ## Number Theory
