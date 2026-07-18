@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rahulkash3412-rgb/DSA/tree/master/0050-powx-n) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rahulkash3412-rgb/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/rahulkash3412-rgb/DSA/tree/master/2235-add-two-integers) |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rahulkash3412-rgb/DSA/tree/master/0050-powx-n) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rahulkash3412-rgb/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
