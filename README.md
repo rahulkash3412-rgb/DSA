@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/rahulkash3412-rgb/DSA/tree/master/0027-remove-element) |
+| [1480-running-sum-of-1d-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/rahulkash3412-rgb/DSA/tree/master/1672-richest-customer-wealth) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/rahulkash3412-rgb/DSA/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rahulkash3412-rgb/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Matrix
 |  |
