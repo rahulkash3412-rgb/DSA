@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/rahulkash3412-rgb/DSA/tree/master/1672-richest-customer-wealth) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/rahulkash3412-rgb/DSA/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rahulkash3412-rgb/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rahulkash3412-rgb/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rahulkash3412-rgb/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/rahulkash3412-rgb/DSA/tree/master/3467-transform-array-by-parity) |
@@ -41,10 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/rahulkash3412-rgb/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahulkash3412-rgb/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rahulkash3412-rgb/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rahulkash3412-rgb/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/rahulkash3412-rgb/DSA/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/rahulkash3412-rgb/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -109,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/rahulkash3412-rgb/DSA/tree/master/1672-richest-customer-wealth) |
+## Binary Search
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rahulkash3412-rgb/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
