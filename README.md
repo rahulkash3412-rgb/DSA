@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/rahulkash3412-rgb/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/rahulkash3412-rgb/DSA/tree/master/0258-add-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rahulkash3412-rgb/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/rahulkash3412-rgb/DSA/tree/master/1688-count-of-matches-in-tournament) |
@@ -40,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/rahulkash3412-rgb/DSA/tree/master/0258-add-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/rahulkash3412-rgb/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/rahulkash3412-rgb/DSA/tree/master/3894-traffic-signal-color) |
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/rahulkash3412-rgb/DSA/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rahulkash3412-rgb/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
