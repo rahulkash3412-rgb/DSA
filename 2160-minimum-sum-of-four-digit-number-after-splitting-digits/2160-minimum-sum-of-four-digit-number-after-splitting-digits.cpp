@@ -10,8 +10,8 @@ public:
 
         sort(temp.begin(), temp.end());
 
-        int x = temp[0] * 10 + temp[2];
-        int y = temp[1] * 10 + temp[3];
+        int x = temp[0]*10+temp[2];
+        int y = temp[1]*10+temp[3];
 
         return x + y;
     }
