@@ -4,8 +4,7 @@ public:
         vector<int> temp;
 
         while (num) {
-            int rem = num % 10;
-            temp.push_back(rem);
+            temp.push_back( num % 10);
             num /= 10;
         }
 
