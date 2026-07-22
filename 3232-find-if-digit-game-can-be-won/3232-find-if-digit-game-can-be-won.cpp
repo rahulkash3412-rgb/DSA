@@ -4,7 +4,7 @@ public:
         long ssum=0,dsum=0;
         int choice=INT_MIN;
         for(auto i :nums){
-            if(i/10){
+            if(i>9){
                 dsum += i;
             }
             else{
