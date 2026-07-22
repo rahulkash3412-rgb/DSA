@@ -1,8 +1,7 @@
 class Solution {
 public:
     bool canAliceWin(vector<int>& nums) {
-        long ssum=0,dsum=0;
-        int choice=INT_MIN;
+        int ssum=0,dsum=0;
         for(auto i :nums){
             if(i>9){
                 dsum += i;
