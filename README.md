@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rahulkash3412-rgb/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/rahulkash3412-rgb/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rahulkash3412-rgb/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rahulkash3412-rgb/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rahulkash3412-rgb/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/rahulkash3412-rgb/DSA/tree/master/2544-alternating-digit-sum) |
 | [3099-harshad-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/3099-harshad-number) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/rahulkash3412-rgb/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rahulkash3412-rgb/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rahulkash3412-rgb/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rahulkash3412-rgb/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
