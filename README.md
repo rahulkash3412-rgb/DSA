@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rahulkash3412-rgb/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/rahulkash3412-rgb/DSA/tree/master/1688-count-of-matches-in-tournament) |
+| [1925-count-square-sum-triples](https://github.com/rahulkash3412-rgb/DSA/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/rahulkash3412-rgb/DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rahulkash3412-rgb/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -165,5 +166,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/rahulkash3412-rgb/DSA/tree/master/1925-count-square-sum-triples) |
 | [2427-number-of-common-factors](https://github.com/rahulkash3412-rgb/DSA/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
