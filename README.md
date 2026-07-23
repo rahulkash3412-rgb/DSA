@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/rahulkash3412-rgb/DSA/tree/master/0027-remove-element) |
 | [0724-find-pivot-index](https://github.com/rahulkash3412-rgb/DSA/tree/master/0724-find-pivot-index) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rahulkash3412-rgb/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rahulkash3412-rgb/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/1512-number-of-good-pairs) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/rahulkash3412-rgb/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rahulkash3412-rgb/DSA/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/rahulkash3412-rgb/DSA/tree/master/0728-self-dividing-numbers) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rahulkash3412-rgb/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rahulkash3412-rgb/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/rahulkash3412-rgb/DSA/tree/master/1688-count-of-matches-in-tournament) |
