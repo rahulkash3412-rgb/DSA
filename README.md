@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/rahulkash3412-rgb/DSA/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/rahulkash3412-rgb/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rahulkash3412-rgb/DSA/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/rahulkash3412-rgb/DSA/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/rahulkash3412-rgb/DSA/tree/master/0728-self-dividing-numbers) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rahulkash3412-rgb/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rahulkash3412-rgb/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rahulkash3412-rgb/DSA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/rahulkash3412-rgb/DSA/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/rahulkash3412-rgb/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/rahulkash3412-rgb/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rahulkash3412-rgb/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahulkash3412-rgb/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0412-fizz-buzz](https://github.com/rahulkash3412-rgb/DSA/tree/master/0412-fizz-buzz) |
 | [3110-score-of-a-string](https://github.com/rahulkash3412-rgb/DSA/tree/master/3110-score-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/rahulkash3412-rgb/DSA/tree/master/3894-traffic-signal-color) |
 ## String Matching
