@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/rahulkash3412-rgb/DSA/tree/master/0027-remove-element) |
+| [0268-missing-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/rahulkash3412-rgb/DSA/tree/master/0724-find-pivot-index) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rahulkash3412-rgb/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rahulkash3412-rgb/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/rahulkash3412-rgb/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rahulkash3412-rgb/DSA/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rahulkash3412-rgb/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rahulkash3412-rgb/DSA/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/rahulkash3412-rgb/DSA/tree/master/0412-fizz-buzz) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/0268-missing-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rahulkash3412-rgb/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rahulkash3412-rgb/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/rahulkash3412-rgb/DSA/tree/master/3467-transform-array-by-parity) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rahulkash3412-rgb/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Counting
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rahulkash3412-rgb/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/rahulkash3412-rgb/DSA/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rahulkash3412-rgb/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
@@ -163,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rahulkash3412-rgb/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Graph Theory
 |  |
