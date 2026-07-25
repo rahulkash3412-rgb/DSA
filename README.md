@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/rahulkash3412-rgb/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/rahulkash3412-rgb/DSA/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/rahulkash3412-rgb/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/rahulkash3412-rgb/DSA/tree/master/0724-find-pivot-index) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rahulkash3412-rgb/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rahulkash3412-rgb/DSA/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/rahulkash3412-rgb/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/rahulkash3412-rgb/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rahulkash3412-rgb/DSA/tree/master/0258-add-digits) |
