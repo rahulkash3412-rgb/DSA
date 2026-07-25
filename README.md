@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/rahulkash3412-rgb/DSA/tree/master/1672-richest-customer-wealth) |
+| [1816-truncate-sentence](https://github.com/rahulkash3412-rgb/DSA/tree/master/1816-truncate-sentence) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/rahulkash3412-rgb/DSA/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahulkash3412-rgb/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0412-fizz-buzz](https://github.com/rahulkash3412-rgb/DSA/tree/master/0412-fizz-buzz) |
+| [1816-truncate-sentence](https://github.com/rahulkash3412-rgb/DSA/tree/master/1816-truncate-sentence) |
 | [3110-score-of-a-string](https://github.com/rahulkash3412-rgb/DSA/tree/master/3110-score-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/rahulkash3412-rgb/DSA/tree/master/3894-traffic-signal-color) |
 ## String Matching
