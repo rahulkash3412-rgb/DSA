@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rahulkash3412-rgb/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rahulkash3412-rgb/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/rahulkash3412-rgb/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/rahulkash3412-rgb/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rahulkash3412-rgb/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rahulkash3412-rgb/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/1512-number-of-good-pairs) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/rahulkash3412-rgb/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rahulkash3412-rgb/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Counting
 |  |
