@@ -1,21 +1,16 @@
 class Solution {
 public:
     vector<string> sortPeople(vector<string>& names, vector<int>& heights) {
-       vector<pair<int, string>> people;
-
-        for (int i = 0; i < names.size(); i++) {
-            people.push_back({heights[i], names[i]});
+          int n = names.size();
+        vector<pair<int,string>> ans(n);
+        for(int i = 0; i < n; i++){
+            ans[i] = {heights[i],names[i]};
         }
-
-        sort(people.begin(), people.end(), [](const auto &a, const auto &b){
-            return a.first > b.first;
-        });
-
-        vector<string> ans;
-        for (auto &p : people) {
-            ans.push_back(p.second);
+        std::sort(ans.begin(),ans.end(),greater<pair<int,string>>());
+        vector<string> res(n);
+        for(int i = 0; i < n; i++){
+            res[i] = ans[i].second;
         }
-
-        return ans;
+        return res;
     }
 };
