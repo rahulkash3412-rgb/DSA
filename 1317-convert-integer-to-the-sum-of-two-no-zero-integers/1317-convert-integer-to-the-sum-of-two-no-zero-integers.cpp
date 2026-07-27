@@ -12,15 +12,13 @@ bool check(int n){
 
 
     vector<int> getNoZeroIntegers(int n) {
-        vector<int>ans;
+        
         for(int i=1;i<=n;i++){
            if(check(i)&&check(n-i)){
-           ans.push_back(i);
-           ans.push_back(n-i);
-           break;
+            return {i,n-i};
            }
 
             }
-        return ans;
+        return{};
     }
 };
