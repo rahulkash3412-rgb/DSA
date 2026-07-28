@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/rahulkash3412-rgb/DSA/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/rahulkash3412-rgb/DSA/tree/master/1816-truncate-sentence) |
 | [1833-maximum-ice-cream-bars](https://github.com/rahulkash3412-rgb/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/rahulkash3412-rgb/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/rahulkash3412-rgb/DSA/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rahulkash3412-rgb/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
