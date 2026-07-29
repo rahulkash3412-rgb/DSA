@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulkash3412-rgb/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/rahulkash3412-rgb/DSA/tree/master/0724-find-pivot-index) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rahulkash3412-rgb/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rahulkash3412-rgb/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rahulkash3412-rgb/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulkash3412-rgb/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/rahulkash3412-rgb/DSA/tree/master/0728-self-dividing-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rahulkash3412-rgb/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rahulkash3412-rgb/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/rahulkash3412-rgb/DSA/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/1323-maximum-69-number) |
