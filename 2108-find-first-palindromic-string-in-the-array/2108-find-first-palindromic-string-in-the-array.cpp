@@ -3,9 +3,16 @@ public:
     string firstPalindrome(vector<string>& words) {
       
         for(auto word : words){
-             string copy = word;
-             reverse(copy.begin(),copy.end());
-             if(copy == word) return word;
+              int l=0,r=word.size()-1;
+              bool flag = true;
+
+           while(l<r){
+            if(word[l]!=word[r]){
+                flag = false;
+            }
+            l++;r--;
+           }
+           if(flag) return word;
         }
         return "";
     }
