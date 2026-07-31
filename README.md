@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/rahulkash3412-rgb/DSA/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rahulkash3412-rgb/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rahulkash3412-rgb/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/rahulkash3412-rgb/DSA/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rahulkash3412-rgb/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rahulkash3412-rgb/DSA/tree/master/0344-reverse-string) |
 | [2000-reverse-prefix-of-word](https://github.com/rahulkash3412-rgb/DSA/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2540-minimum-common-value](https://github.com/rahulkash3412-rgb/DSA/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rahulkash3412-rgb/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/rahulkash3412-rgb/DSA/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rahulkash3412-rgb/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/rahulkash3412-rgb/DSA/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rahulkash3412-rgb/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/rahulkash3412-rgb/DSA/tree/master/2418-sort-the-people) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rahulkash3412-rgb/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
