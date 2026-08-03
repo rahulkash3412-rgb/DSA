@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/rahulkash3412-rgb/DSA/tree/master/1920-build-array-from-permutation) |
 | [2169-count-operations-to-obtain-zero](https://github.com/rahulkash3412-rgb/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rahulkash3412-rgb/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/rahulkash3412-rgb/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/rahulkash3412-rgb/DSA/tree/master/3701-compute-alternating-sum) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/rahulkash3412-rgb/DSA/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/rahulkash3412-rgb/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rahulkash3412-rgb/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/rahulkash3412-rgb/DSA/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/rahulkash3412-rgb/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rahulkash3412-rgb/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3894-traffic-signal-color](https://github.com/rahulkash3412-rgb/DSA/tree/master/3894-traffic-signal-color) |
 ## String Matching
