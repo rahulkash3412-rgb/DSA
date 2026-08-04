@@ -5,7 +5,7 @@ public:
         for(int i=0;i<n.size();i++){
             int cnt=0;
             for(int j=0;j<n.size();j++){
-                 if(n[j]<n[i]){
+                 if(i!=j && n[j]<n[i]){
                     cnt++;
                     }
             }
