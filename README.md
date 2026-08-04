@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/rahulkash3412-rgb/DSA/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahulkash3412-rgb/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rahulkash3412-rgb/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rahulkash3412-rgb/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulkash3412-rgb/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/rahulkash3412-rgb/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rahulkash3412-rgb/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/rahulkash3412-rgb/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/1512-number-of-good-pairs) |
 | [2418-sort-the-people](https://github.com/rahulkash3412-rgb/DSA/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/rahulkash3412-rgb/DSA/tree/master/2540-minimum-common-value) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/rahulkash3412-rgb/DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Queue
 |  |
