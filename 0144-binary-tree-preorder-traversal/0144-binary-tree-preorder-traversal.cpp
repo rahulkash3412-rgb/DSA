@@ -17,7 +17,7 @@ public:
         return res;
     }
     void preorder(TreeNode*node,vector<int>&res){
-        if(node == nullptr)return;
+        if(node == NULL)return;
 
         res.push_back(node->val);
         preorder(node->left,res);
