@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/rahulkash3412-rgb/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/rahulkash3412-rgb/DSA/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/rahulkash3412-rgb/DSA/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulkash3412-rgb/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/0268-missing-number) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rahulkash3412-rgb/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahulkash3412-rgb/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rahulkash3412-rgb/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rahulkash3412-rgb/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/rahulkash3412-rgb/DSA/tree/master/0392-is-subsequence) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulkash3412-rgb/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
