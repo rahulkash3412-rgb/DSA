@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulkash3412-rgb/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/rahulkash3412-rgb/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulkash3412-rgb/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/rahulkash3412-rgb/DSA/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/rahulkash3412-rgb/DSA/tree/master/0877-stone-game) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rahulkash3412-rgb/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rahulkash3412-rgb/DSA/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/rahulkash3412-rgb/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/rahulkash3412-rgb/DSA/tree/master/0392-is-subsequence) |
 | [2000-reverse-prefix-of-word](https://github.com/rahulkash3412-rgb/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/rahulkash3412-rgb/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulkash3412-rgb/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/rahulkash3412-rgb/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/rahulkash3412-rgb/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/1512-number-of-good-pairs) |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/rahulkash3412-rgb/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/rahulkash3412-rgb/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/rahulkash3412-rgb/DSA/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rahulkash3412-rgb/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
