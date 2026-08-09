@@ -8,7 +8,7 @@ public:
             if(nums[mid] == k)
             return mid;
 
-           else if(nums[mid] > k ){
+            if(nums[mid] > k ){
                end = mid -1;
             }
             else {
