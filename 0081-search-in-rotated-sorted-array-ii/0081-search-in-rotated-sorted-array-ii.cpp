@@ -9,8 +9,8 @@ public:
            return true;
 
         if(nums[low]==nums[mid] && nums[mid]==nums[high]){
-            high = high-1;
-            low = low+1;
+            high--;;
+            low++;
             continue;
         }   
 
