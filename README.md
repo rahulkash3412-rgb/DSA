@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rahulkash3412-rgb/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/rahulkash3412-rgb/DSA/tree/master/1518-water-bottles) |
+| [1641-count-sorted-vowel-strings](https://github.com/rahulkash3412-rgb/DSA/tree/master/1641-count-sorted-vowel-strings) |
 | [1688-count-of-matches-in-tournament](https://github.com/rahulkash3412-rgb/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rahulkash3412-rgb/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/rahulkash3412-rgb/DSA/tree/master/1925-count-square-sum-triples) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/rahulkash3412-rgb/DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/rahulkash3412-rgb/DSA/tree/master/0877-stone-game) |
+| [1641-count-sorted-vowel-strings](https://github.com/rahulkash3412-rgb/DSA/tree/master/1641-count-sorted-vowel-strings) |
 ## Memoization
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/rahulkash3412-rgb/DSA/tree/master/1641-count-sorted-vowel-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rahulkash3412-rgb/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Tree
 |  |
