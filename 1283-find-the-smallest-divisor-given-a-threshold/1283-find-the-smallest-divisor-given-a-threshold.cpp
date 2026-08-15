@@ -1,14 +1,5 @@
 class Solution {
 public:
-int sumofceil(vector<int>arr ,int div){
-    int sm=0;
-    for(int i=0;i<arr.size();i++){
-        sm = sm + ceil((double)arr[i]/(double)div);
-       
-    }
-    return sm ;
-}
-
     int smallestDivisor(vector<int>& nums, int threshold) {
         sort(nums.begin(),nums.end());
         int low = 1;
@@ -16,7 +7,10 @@ int sumofceil(vector<int>arr ,int div){
          
         while(low<=high){
             int mid = low+ ( high- low)/2 ;
-            if(sumofceil(nums , mid) <= threshold){
+            int sm=0;
+    for(int i : nums){
+        sm = sm + ceil((double)i/mid);}
+            if(sm<= threshold){
                 high =mid-1;
             }
             else low =mid+1 ; 
