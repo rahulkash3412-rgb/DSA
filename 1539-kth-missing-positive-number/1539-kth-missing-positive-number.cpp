@@ -10,6 +10,11 @@ public:
 
             else high = mid-1;
         }
-        return high+k+1;
+        return high+k+1;//low+k;
     }
 };
+/*for(auto it:arr){
+            if(k>=it) k++;
+            
+        }
+        return k;*/
