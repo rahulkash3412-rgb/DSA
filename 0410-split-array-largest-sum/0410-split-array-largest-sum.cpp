@@ -18,12 +18,14 @@ public:
     int splitArray(vector<int>& a, int k) {
         int low = *max_element(a.begin(),a.end());
 long long high = accumulate(a.begin(),a.end(),0LL);
+long long ans = high;
 while(low<=high){
     long long mid = (low+high)/2;
    int elements=fxn(a,mid);
     if(elements>k) low = mid+1;
-    else {high = mid-1;}
+    else {high = mid-1;
+    ans = mid;}
     }
-    return low;
+    return ans;
 }
 };
