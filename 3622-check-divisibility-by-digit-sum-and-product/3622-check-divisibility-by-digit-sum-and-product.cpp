@@ -4,7 +4,7 @@ public:
         int x=n;
         int sum=0;
         int pro=1;
-        while(n>0){
+        while(n){
             sum+=n%10;
             pro*=n%10;
             n/=10;
