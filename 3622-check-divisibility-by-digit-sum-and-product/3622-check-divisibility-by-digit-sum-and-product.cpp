@@ -9,5 +9,5 @@ public:
             pro*=n%10;
             n/=10;
         }
-        return (x%(sum+pro)==0);}
+        return !(x%(sum+pro));}
 };
