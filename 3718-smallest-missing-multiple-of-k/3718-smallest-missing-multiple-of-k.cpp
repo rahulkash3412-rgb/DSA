@@ -1,13 +1,16 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-        unordered_set<int>st(nums.begin(),nums.end());
-      
-        int n = k ;
-        while(st.count(n)){
-            n = n+k;
-        }    
-        
-        return n;
+        sort(nums.begin(), nums.end());
+
+    int search = k;
+    for (const int& num : nums) {
+         if (num == search)
+           search += k;
+     
+        else if (num > search)
+              return search;
+   }
+  return search; 
     }
 };
