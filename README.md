@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rahulkash3412-rgb/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahulkash3412-rgb/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/rahulkash3412-rgb/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rahulkash3412-rgb/DSA/tree/master/0344-reverse-string) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rahulkash3412-rgb/DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rahulkash3412-rgb/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rahulkash3412-rgb/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rahulkash3412-rgb/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -482,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rahulkash3412-rgb/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rahulkash3412-rgb/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
