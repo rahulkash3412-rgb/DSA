@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/rahulkash3412-rgb/DSA/tree/master/1920-build-array-from-permutation) |
 | [2169-count-operations-to-obtain-zero](https://github.com/rahulkash3412-rgb/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2974-minimum-number-game](https://github.com/rahulkash3412-rgb/DSA/tree/master/2974-minimum-number-game) |
+| [3174-clear-digits](https://github.com/rahulkash3412-rgb/DSA/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rahulkash3412-rgb/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/rahulkash3412-rgb/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/rahulkash3412-rgb/DSA/tree/master/3701-compute-alternating-sum) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rahulkash3412-rgb/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/rahulkash3412-rgb/DSA/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/rahulkash3412-rgb/DSA/tree/master/3146-permutation-difference-between-two-strings) |
+| [3174-clear-digits](https://github.com/rahulkash3412-rgb/DSA/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/rahulkash3412-rgb/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rahulkash3412-rgb/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3894-traffic-signal-color](https://github.com/rahulkash3412-rgb/DSA/tree/master/3894-traffic-signal-color) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/rahulkash3412-rgb/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/rahulkash3412-rgb/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [2000-reverse-prefix-of-word](https://github.com/rahulkash3412-rgb/DSA/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/rahulkash3412-rgb/DSA/tree/master/3174-clear-digits) |
 ## Counting Sort
 |  |
 | ------- |
