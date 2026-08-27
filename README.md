@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rahulkash3412-rgb/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahulkash3412-rgb/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/rahulkash3412-rgb/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/rahulkash3412-rgb/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rahulkash3412-rgb/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/rahulkash3412-rgb/DSA/tree/master/0392-is-subsequence) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/rahulkash3412-rgb/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/rahulkash3412-rgb/DSA/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/rahulkash3412-rgb/DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/rahulkash3412-rgb/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rahulkash3412-rgb/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/0509-fibonacci-number) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/rahulkash3412-rgb/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rahulkash3412-rgb/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rahulkash3412-rgb/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/rahulkash3412-rgb/DSA/tree/master/0234-palindrome-linked-list) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/rahulkash3412-rgb/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [2000-reverse-prefix-of-word](https://github.com/rahulkash3412-rgb/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/rahulkash3412-rgb/DSA/tree/master/3174-clear-digits) |
@@ -488,4 +491,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rahulkash3412-rgb/DSA/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/rahulkash3412-rgb/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
