@@ -1,37 +1,33 @@
 class Solution {
 public:
     int evalRPN(vector<string>& s) {
-        int i=0;
-        stack<int>st;
-        int ans;
-        while(i<s.size()){
-            if(s[i] == "+"||s[i] == "-"||s[i] == "*"||s[i] == "/"){
-                int op1 = st.top();
+       int i = 0;
+        stack<int> st;
+        
+        while (i < s.size()) {
+            if (s[i] == "+" || s[i] == "-" || s[i] == "*" || s[i] == "/") {
+                int secondNum = st.top();
                 st.pop();
-                int op2 = st.top();
+                int firstNum = st.top();
                 st.pop();
-               switch (s[i][0]){
-                case '+' :
-                     st.push(op1 + op2);
-                     break;
-               
-               case '-':  st.push(op2 - op1);
-                     break;
 
-                case '*':  st.push(op1 * op2);
-                     break;      
-
-                  case '/':  st.push(op2 / op1);
-                     break;    
-               
-               }
-
-            }
-            else{
-                        st.push(stoi(s[i]));
+                int result;
+                if (s[i] == "+") {
+                    result = firstNum + secondNum;
+                } else if (s[i] == "-") {
+                    result = firstNum - secondNum;
+                } else if (s[i] == "/") {
+                    result = firstNum / secondNum;
+                } else if (s[i] == "*") {
+                    result = firstNum * secondNum;
+                }
+                st.push(result);
+            } else {
+                st.push(stoi(s[i]));
             }
             i++;
         }
+        
         return st.top();
     }
 };
