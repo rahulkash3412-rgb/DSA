@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rahulkash3412-rgb/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/rahulkash3412-rgb/DSA/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/rahulkash3412-rgb/DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulkash3412-rgb/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/rahulkash3412-rgb/DSA/tree/master/0704-binary-search) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rahulkash3412-rgb/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/rahulkash3412-rgb/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/rahulkash3412-rgb/DSA/tree/master/0496-next-greater-element-i) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rahulkash3412-rgb/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/rahulkash3412-rgb/DSA/tree/master/1512-number-of-good-pairs) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/rahulkash3412-rgb/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rahulkash3412-rgb/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/rahulkash3412-rgb/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/rahulkash3412-rgb/DSA/tree/master/0496-next-greater-element-i) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/rahulkash3412-rgb/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [2000-reverse-prefix-of-word](https://github.com/rahulkash3412-rgb/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/rahulkash3412-rgb/DSA/tree/master/3174-clear-digits) |
@@ -509,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/rahulkash3412-rgb/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/rahulkash3412-rgb/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rahulkash3412-rgb/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/rahulkash3412-rgb/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
