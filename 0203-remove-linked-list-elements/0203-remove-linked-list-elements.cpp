@@ -10,22 +10,18 @@
  */
 class Solution {
 public:
-    ListNode* removeElements(ListNode* head, int k) {
-      ListNode* dummy = new ListNode(0, head);
-        ListNode* temp = dummy;
-
-        while (temp->next != nullptr) {
-            if (temp->next->val == k) {
-                ListNode* toDelete = temp->next;
-                temp->next = toDelete->next;
-                delete toDelete;
+    ListNode* removeElements(ListNode* head, int val) {
+         while (head != nullptr && head->val == val) {
+            head = head->next;
+        }
+        ListNode* curr = head;
+        while (curr != nullptr && curr->next != nullptr) {
+            if (curr->next->val == val) {
+                curr->next = curr->next->next;
             } else {
-                temp = temp->next;
+                curr = curr->next;
             }
         }
-
-        ListNode* newHead = dummy->next;
-        delete dummy;
-        return newHead;
+        return head;
     }
 };
