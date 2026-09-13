@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahulkash3412-rgb/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/rahulkash3412-rgb/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rahulkash3412-rgb/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/rahulkash3412-rgb/DSA/tree/master/0410-split-array-largest-sum) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/rahulkash3412-rgb/DSA/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/rahulkash3412-rgb/DSA/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/rahulkash3412-rgb/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/rahulkash3412-rgb/DSA/tree/master/1480-running-sum-of-1d-array) |
