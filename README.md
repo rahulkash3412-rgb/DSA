@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/rahulkash3412-rgb/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulkash3412-rgb/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/rahulkash3412-rgb/DSA/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/rahulkash3412-rgb/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/rahulkash3412-rgb/DSA/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rahulkash3412-rgb/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rahulkash3412-rgb/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -545,4 +546,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rahulkash3412-rgb/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/rahulkash3412-rgb/DSA/tree/master/0496-next-greater-element-i) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/rahulkash3412-rgb/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
